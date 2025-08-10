@@ -14,14 +14,14 @@ https://trello.com/invite/b/68869ad579580a8ec08ed85e/ATTI6b82128d775c50961bdf789
 2. Navega hasta la carpeta del proyecto
 3. Ejecuta el programa desde la línea de comandos:
    ```bash
-   python Solucion_Desafio/calcular_nota.py
+   python3 Solucion_Desafio/calcular_nota.py
    ```
    
 ### Alternativa (desde la carpeta Solucion_Desafio)
 Si prefieres navegar directamente a la carpeta del programa:
 ```bash
 cd Solucion_Desafio
-python calcular_nota.py
+python3 calcular_nota.py
 ```
 
 ### Descripción del programa
